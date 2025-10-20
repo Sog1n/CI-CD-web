@@ -42,7 +42,7 @@ const Footer = () => {
           </div>
           <p className="mx-6 my-10 text-neutral-950">
             Subscribe to get notified for all money saving and tummy filling
-            offers akhgfskjdh
+            offers
           </p>
         </div>
       </div>
